@@ -14,9 +14,9 @@ The correctness of this open-source version is still under validation. Feel free
 
 | Speaker | Checkpoint |
 | --- | --- |
-| Chemistry Lectures | 1 |
-| Chess Analysis | 1 |
-| Hardware Security | 1 |
+| Chemistry Lectures | [Google Drive](https://drive.google.com/drive/folders/1q3cWnDoPxsC5TWf_ehDzyWNs4piqmcrh?usp=drive_link) |
+| Chess Analysis | [Google Drive](https://drive.google.com/drive/folders/1q4qDMAwmKGVtw740Udi9wv5sbieyBLJu?usp=drive_link) |
+| Hardware Security | [Google Drive](https://drive.google.com/drive/folders/1q88j1v7jUqdupfjs3OcGo45Q2n8DShKM?usp=drive_link) |
 
 ## Dependencies
 
